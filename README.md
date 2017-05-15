@@ -4,4 +4,4 @@
 
 ### 我的文章们
 
-- [当然是用来测试用的主页啦 2017/05/15](https://github.com/traburiss/traburiss.github.io/blob/master/FIRST_PAGE.md)
+- [当然是用来测试用的主页啦 2017/05/15](https://traburiss.github.io/page/firstPage)
