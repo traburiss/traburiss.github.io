@@ -8,6 +8,6 @@
 
 
 <!-- UY BEGIN -->
-<div id="wode pinglun"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js"></script>
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2133686"></script>
 <!-- UY END -->
