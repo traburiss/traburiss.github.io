@@ -9,5 +9,5 @@
 
 <!-- UY BEGIN -->
 <div id="2133686"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2133686"></script>
+<script type="text/javascript" src=" //v2.uyan.cc/code/uyan.js?uid=2133686"></script>
 <!-- UY END -->
