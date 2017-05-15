@@ -5,9 +5,3 @@
 ## 我的文章们
 
 - [第一篇文章当然是用来测试啦 2017/05/15](https://traburiss.github.io/page/firstPage)
-
-
-<!-- UY BEGIN -->
-<div id="2133686"></div>
-<script type="text/javascript" src=" //v2.uyan.cc/code/uyan.js?uid=2133686"></script>
-<!-- UY END -->
